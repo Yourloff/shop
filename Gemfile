@@ -26,12 +26,12 @@ gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'has_scope', '~> 0.8.0'
 gem 'simple_form', '~> 5.1'
 gem 'kaminari', '~> 1.2', '>= 1.2.2'
-gem 'slim', '~> 4.1'
+gem 'slim-rails', '~> 3.5', '>= 3.5.1'
 gem 'draper', '~> 4.0', '>= 4.0.2'
 gem 'react-rails', '~> 2.6', '>= 2.6.2'
 gem 'mongo', '~> 2.18', '>= 2.18.2'
+gem 'mongoid', '~> 8.0', '>= 8.0.3'
 gem 'sidekiq', '~> 7.0', '>= 7.0.2'
-gem 'tzinfo-data', '~> 1.2022', '>= 1.2022.1'
 
 group :development, :test do
   gem "byebug"
