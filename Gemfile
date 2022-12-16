@@ -41,3 +41,5 @@ group :development do
   gem "web-console"
   gem "spring"
 end
+
+gem "tzinfo-data", "~> 1.2022"
