@@ -31,6 +31,7 @@ gem 'draper', '~> 4.0', '>= 4.0.2'
 gem 'react-rails', '~> 2.6', '>= 2.6.2'
 gem 'mongo', '~> 2.18', '>= 2.18.2'
 gem 'sidekiq', '~> 7.0', '>= 7.0.2'
+gem 'tzinfo-data', '~> 1.2022', '>= 1.2022.1'
 
 group :development, :test do
   gem "byebug"
